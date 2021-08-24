@@ -7,7 +7,7 @@ locations with the sightings that have occured in them
 ## Author
 - [MUHUDIN ABDI ALI](https://github.com/wilwal-abdi-dev)
 
-## Setup Requirements for Databas
+## Setup Requirements for Database
 * In PSQL:
 * CREATE DATABASE wildlife_tracker;
 * \c wildlife_tracker
