@@ -61,4 +61,4 @@ public class SightingsTest {
     private Sightings setUpNewSighting() {
         return new Sightings(1,1,1);
     }
-}
+
