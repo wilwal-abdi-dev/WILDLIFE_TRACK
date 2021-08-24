@@ -26,7 +26,7 @@ locations with the sightings that have occured in them
 * Java
 * Heroku
 * CSS
-* HBS
+* HB
 
 
 ## Support and contact details
