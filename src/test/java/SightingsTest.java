@@ -62,3 +62,4 @@ public class SightingsTest {
         return new Sightings(1,1,1);
     }
 
+}
