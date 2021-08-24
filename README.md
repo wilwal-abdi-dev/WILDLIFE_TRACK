@@ -24,7 +24,7 @@ locations with the sightings that have occured in them
 
 ## Technologies Used
 * Java
-* Heroku
+* Herok
 * CSS
 * HBS
 
