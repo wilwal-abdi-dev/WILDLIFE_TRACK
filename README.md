@@ -20,7 +20,7 @@ locations with the sightings that have occured in them
 * CREATE DATABASE wildlife_tracker_test WITH TEMPLATE wildlife_tracker;
 ## In order to run locally
 * Go to DB.class in main/java folder and make necessary changes
-* Go to DatabaseRule in test/java folder and make necessary changes
+* Go to DatabaseRule in test/java folder and make necessary change
 
 ## Technologies Used
 * Java
